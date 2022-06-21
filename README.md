@@ -13,10 +13,10 @@ hàng đánh giá là địa chỉ bán hàng uy tin,có chất lượng dịch 
 
 ## Thành Viên Nhóm
 
-Nguyễn Duy Long **Leader & DEV**
-Nguyễn Thị Tình **QA & Tester**
-Lưu Ngọc Nam **DEV**
-Nguyễn Trung Kiên **DEV**
+Nguyễn Duy Long **Leader & DEV**\
+Nguyễn Thị Tình **QA & Tester**\
+Lưu Ngọc Nam **DEV**\
+Nguyễn Trung Kiên **DEV**\
 
 ## Quản Trị Dự Án CNTT
 
